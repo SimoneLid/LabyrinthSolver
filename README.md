@@ -15,4 +15,4 @@ Le caselle, i muri, l'inizio, la fine e il percorso sono codificate con dei colo
 ### Esempio
  |Input|Output|
  |:---:|:----:|
- |<img src="input/labyrinth_8.png" alt="image" width="300" height="auto">|<img src="output/labyrinth_8_out.png" alt="image" width="300" height="auto">|
+ |<img src="input_example.png" alt="image" width="300" height="auto">|<img src="output_example.png" alt="image" width="300" height="auto">|
